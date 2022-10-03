@@ -27,7 +27,4 @@ As stated previously in this research paper, the analysis was limited by the acc
 This model can be a great tool for making a statistically backed decision on the valuation of a home. It would be recommended for realtors and brokerages within California to use this model to determine the sales price of a home being put on the market. It can also be used by individuals looking to sale their homes themselves or wanting to ensure their realtor made the best valuation on the home.
 
 There are many different approaches for future study of this data set. One way this data set could be used is to create a time series forecast of home prices. This would give a good indication to where home prices are expected to go in the future. An ARIMA model could be used to make some short-term predictions on the prices of homes. This would be helpful in letting home sellers know the best time to sell their homes at a better valuation. Another approach would be to do a cluster analysis on the home prices. Real estate can be much different across a state or even a city. A cluster analysis would help to identify patterns in the data and determine which areas have the highest or lowest valuations.
-![image](https://user-images.githubusercontent.com/111837210/193497619-906f7ba8-8732-4d41-9de8-4bea6f85c47e.png)
-
-
 
